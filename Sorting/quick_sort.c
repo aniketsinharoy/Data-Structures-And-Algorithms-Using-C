@@ -25,8 +25,8 @@ int partition(int a[],int l,int h)
 			a[e]=t;
 		}
 	}
-	t=a[l];
-	a[l]=a[e];
+	t=p;
+	p=a[e];
 	a[e]=t;
 	return e;
 }
