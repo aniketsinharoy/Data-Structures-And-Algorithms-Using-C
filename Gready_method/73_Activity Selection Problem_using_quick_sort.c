@@ -1,7 +1,7 @@
-//Name-Tiyasha Ghosal
+//Name-Aniket Sinha Roy
 //Dept-CSE
 //Year-2nd
-//Roll No-32
+//Roll No-73
 //Assignment-7
 //Question-1(Activity Selector using greedy method)
 //1/6/21
