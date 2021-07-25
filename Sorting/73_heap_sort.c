@@ -95,14 +95,14 @@ void heap_sort(int a[],int n)
 				swap(&a[j],&a[left_child]);
 				j=left_child;
 				left_child=2*j+1;
-		        right_child=2*j+2;
+		                right_child=2*j+2;
 			}
 			else
 			{
 				swap(&a[j],&a[right_child]);
 				j=right_child;
 				left_child=2*j+1;
-		        right_child=2*j+2;
+		                right_child=2*j+2;
 			}
 		} 
 	}  
