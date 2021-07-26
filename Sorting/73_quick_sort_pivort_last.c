@@ -28,7 +28,7 @@ int partition(int a[],int l,int h)
 	t=a[h];
 	a[h]=a[s];
 	a[s]=t;
-	return e;
+	return s;
 }
 void qsort(int a[],int l,int h)
 {
