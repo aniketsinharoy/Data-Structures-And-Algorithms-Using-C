@@ -2,7 +2,6 @@
 // CSE 4th sem
 //roll: 73
 //assignment: 2
-//this quick sort algo take more time than O(nlogn) try to avoid this algo
 #include<stdio.h>
 int partition(int a[],int l,int h)
 {
