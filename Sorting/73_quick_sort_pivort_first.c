@@ -2,7 +2,6 @@
 // CSE 4th sem
 //roll: 73
 //assignment: 2
-//Quick sort but dont use it because its time complexity is more than O(nlogn)
 #include<stdio.h>
 int partition(int a[],int l,int h)
 {
