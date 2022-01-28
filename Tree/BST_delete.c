@@ -1,7 +1,4 @@
-//Name: Aniket Sinha Roy
-// CSE 2nd year
-//roll: 60
-//assignment: 20 (binary search tree : insert, delete, preorder, inorder, postorder)
+//(binary search tree : insert, delete, preorder, inorder, postorder)
 #include<stdio.h>
 #include<stdlib.h>
 struct node *tree_root=NULL;
