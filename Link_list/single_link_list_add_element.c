@@ -1,7 +1,3 @@
-//Name: Aniket Sinha Roy
-// CSE 2nd year
-//roll: 60
-//assignment: 5
 #include<stdio.h>
 #include<stdlib.h>
 struct node
