@@ -1,6 +1,3 @@
-//Name: Aniket Sinha Roy
-//CSE 4th sem
-//Roll: 73
 #include<stdio.h>
 void swap(int *i,int *j)
 {
