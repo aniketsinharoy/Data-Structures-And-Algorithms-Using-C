@@ -1,7 +1,3 @@
-//Name: Aniket Sinha Roy
-//CSE 2nd year
-//Roll:60
-//Assignment:22
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
@@ -82,7 +78,7 @@ void inorder(struct tree *root)
 int main()
  {
   create_threaded_tree();
-  printf(" \n The in–order traversal of the tree can be given as : ");
+  printf(" \n The inâ€“order traversal of the tree can be given as : ");
   inorder(root);
   return 0;
  }
