@@ -1,7 +1,3 @@
-//Name:Aniket Sinha Roy
-//CSE 4th sem
-//Roll: 73
-//Assignment:11 (Graph Coloring Problem)
 #include<stdio.h>
 const int M=21;
 const int N=21;
