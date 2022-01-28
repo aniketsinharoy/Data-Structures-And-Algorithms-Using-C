@@ -1,7 +1,3 @@
-//Name:Aniket Sinha Roy
-//CSE 2nd year
-//Assignment:15 (infix to prifix)
-//Roll:60
 #include<stdio.h>
 #include<string.h>
 int top=-1;
