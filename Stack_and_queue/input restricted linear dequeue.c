@@ -1,7 +1,3 @@
-//Name:Aniket Sinha Roy
-//CSE 2nd year
-//Assignment:18 (input restricted linear dequeue)
-//Roll:60
 #include<stdio.h>
 #include<stdlib.h>
 int front_a=-1;
