@@ -1,7 +1,3 @@
-//Name: Aniket Sinha Roy
-//CSE 2nd yr
-//Roll: 60
-//Assignment: 16(evaluate prefix expression)
 #include<stdio.h>
 #include<math.h>
 #include<string.h>
