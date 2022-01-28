@@ -1,7 +1,3 @@
-// name: Aniket Sinha Roy
-// CSE 4th sem
-//roll: 73
-//assignment: 7
 #include<stdio.h>
 const int M=3;
 const int N=21;
