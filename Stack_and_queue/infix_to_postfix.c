@@ -1,7 +1,3 @@
-//Name:Aniket Sinha Roy
-//CSE 2nd year
-//Assignment:14 (infix to postfix)
-//Roll:60
 #include<stdio.h>
 int top=-1;
 char a[50];
