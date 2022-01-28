@@ -1,7 +1,3 @@
-//Name: Aniket Sinha Roy
-//CSE 2nd year
-//Roll:73
-//Assignment:3
 #include<stdio.h>
 int max, min;
 int a[100];
