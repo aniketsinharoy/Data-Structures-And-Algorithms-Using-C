@@ -1,6 +1,3 @@
-//Name: Aniket Sinha Roy
-//CSE 4th sem
-//Roll: 73
 #include<stdio.h>
 int M=4,N=100;
 void bubble_sort(float a[M][N],int n)
