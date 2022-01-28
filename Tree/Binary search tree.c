@@ -1,8 +1,4 @@
-//Name: Aniket Sinha Roy
-// CSE 2nd year
-//roll: 60
-//assignment: 21 
-/*construct a binary search tree
+ /*construct a binary search tree
 find the smallest element 
 find the largest element
 display mirror image of the tree
