@@ -1,7 +1,3 @@
-//Name:Aniket Sinha Roy
-//CSE 2nd year
-//Assignment:13 (stack using array)
-//Roll:60
 #include<stdio.h>
 int top=-1;
 int a[50];
