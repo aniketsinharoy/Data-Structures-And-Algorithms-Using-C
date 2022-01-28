@@ -1,7 +1,3 @@
-//Name:Aniket Sinha Roy
-//CSE 2nd year
-//Assignment:17 (circular queue using array & link list)
-//Roll:60
 #include<stdio.h>
 #include<stdlib.h>
 int front_a=-1;
