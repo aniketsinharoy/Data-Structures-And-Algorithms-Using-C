@@ -1,7 +1,3 @@
-//Name:Aniket Sinha Roy
-//CSE 4th sem
-//Roll: 73
-//Assignment:12 (Hamiltonian cycle Problem)
 #include<stdio.h>
 const int M=21;
 const int N=21;
