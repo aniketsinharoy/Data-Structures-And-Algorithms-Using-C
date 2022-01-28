@@ -1,7 +1,3 @@
-//Name: Aniket Sinha Roy
-//CSE 4th sem
-//Roll: 73
-//Assignment: 12 (prim's problem)
 #include<stdio.h>
 int min_weight_node(int min_weight[],int visited[],int n)
 {
