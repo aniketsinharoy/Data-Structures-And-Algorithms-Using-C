@@ -1,10 +1,3 @@
-//Name-Aniket Sinha Roy
-//Dept-CSE
-//Year-2nd
-//Roll No-73
-//Assignment-7
-//Question-1(Activity Selector using greedy method)
-//1/6/21
 #include <stdio.h>
 #include <stdlib.h>
 void swap(int *a, int *b) 
