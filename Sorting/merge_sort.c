@@ -1,7 +1,3 @@
-//name: Aniket Sinha Roy
-// CSE 4th sem
-// roll: 60
-// assignment: 1
 #include<stdio.h>
 void merge(int a[],int l,int m,int h)
 {
