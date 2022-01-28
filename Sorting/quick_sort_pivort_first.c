@@ -1,7 +1,3 @@
-// name: Aniket Sinha Roy
-// CSE 4th sem
-//roll: 73
-//assignment: 2
 #include<stdio.h>
 int partition(int a[],int l,int h)
 {
