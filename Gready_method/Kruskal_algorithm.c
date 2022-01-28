@@ -1,7 +1,3 @@
-//Name: Aniket Sinha Roy
-//CSE 4th sem
-//Roll:73
-//Assignment 13 (Kruskal's algorithm)
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
