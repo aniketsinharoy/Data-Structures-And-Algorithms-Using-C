@@ -1,7 +1,3 @@
-//Name: Aniket Sinha Roy
-//CSE 4th sem
-//Roll no: 73
-//Assignment: 10 (N_Queen problem)
 #include<stdio.h>
 int p=0;
 int place(int queen_placement[],int k,int i)
