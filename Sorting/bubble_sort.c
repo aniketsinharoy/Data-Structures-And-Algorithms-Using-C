@@ -1,7 +1,3 @@
-// name: Aniket Sinha Roy
-// CSE 3rd sem
-//roll: 60
-//assignment: 2
 #include<stdio.h>
 int main()
 {
